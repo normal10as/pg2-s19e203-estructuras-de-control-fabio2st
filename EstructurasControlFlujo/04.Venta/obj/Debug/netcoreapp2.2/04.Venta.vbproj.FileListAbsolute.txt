@@ -1,0 +1,10 @@
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\04.Venta\bin\Debug\netcoreapp2.2\04.Venta.deps.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\04.Venta\bin\Debug\netcoreapp2.2\04.Venta.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\04.Venta\bin\Debug\netcoreapp2.2\04.Venta.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\04.Venta\bin\Debug\netcoreapp2.2\04.Venta.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\04.Venta\bin\Debug\netcoreapp2.2\04.Venta.pdb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\04.Venta\obj\Debug\netcoreapp2.2\04.Venta.vbproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\04.Venta\obj\Debug\netcoreapp2.2\04.Venta.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\04.Venta\obj\Debug\netcoreapp2.2\04.Venta.AssemblyInfo.vb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\04.Venta\obj\Debug\netcoreapp2.2\04.Venta.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\04.Venta\obj\Debug\netcoreapp2.2\04.Venta.pdb
