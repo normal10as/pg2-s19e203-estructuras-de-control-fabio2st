@@ -1,0 +1,11 @@
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\03.Tercero\bin\Debug\netcoreapp2.2\03.Tercero.deps.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\03.Tercero\bin\Debug\netcoreapp2.2\03.Tercero.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\03.Tercero\bin\Debug\netcoreapp2.2\03.Tercero.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\03.Tercero\bin\Debug\netcoreapp2.2\03.Tercero.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\03.Tercero\bin\Debug\netcoreapp2.2\03.Tercero.pdb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\03.Tercero\obj\Debug\netcoreapp2.2\03.Tercero.vbprojAssemblyReference.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\03.Tercero\obj\Debug\netcoreapp2.2\03.Tercero.vbproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\03.Tercero\obj\Debug\netcoreapp2.2\03.Tercero.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\03.Tercero\obj\Debug\netcoreapp2.2\03.Tercero.AssemblyInfo.vb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\03.Tercero\obj\Debug\netcoreapp2.2\03.Tercero.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\03.Tercero\obj\Debug\netcoreapp2.2\03.Tercero.pdb
