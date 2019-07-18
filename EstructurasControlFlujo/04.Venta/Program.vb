@@ -18,7 +18,7 @@ Module Program
             descuento = 0.2
         ElseIf cantidad > 50 Then
             descuento = 0.1
-        ElseIf cantidad > 10 Then
+        ElseIf cantidad >= 10 Then
             descuento = 0.05
         End If
         total = cantidad * precioUnitario
