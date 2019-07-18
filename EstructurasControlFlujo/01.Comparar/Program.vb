@@ -1,5 +1,6 @@
 Imports System
-
+'3.1. Crear un proyecto y un módulo “Comparar” para resolver con IF: se ingresan dos valores
+'numéricos e informar por pantalla cuál es la relación entre ambos: mayor, menor o igual
 Module Program
     Sub Main(args As String())
         Dim valor1, valor2 As Single
