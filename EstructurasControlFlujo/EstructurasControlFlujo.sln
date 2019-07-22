@@ -19,6 +19,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "07.Angulo", "07.Angulo\07.A
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "08.DiasMes", "08.DiasMes\08.DiasMes.vbproj", "{0380CAD5-676B-4FCA-9F34-0E7D38597B20}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "09.ConversionMedida", "09.ConversionMedida\09.ConversionMedida.vbproj", "{D96D9B55-6791-4567-AA6D-4BEB44254143}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{0380CAD5-676B-4FCA-9F34-0E7D38597B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0380CAD5-676B-4FCA-9F34-0E7D38597B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0380CAD5-676B-4FCA-9F34-0E7D38597B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96D9B55-6791-4567-AA6D-4BEB44254143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96D9B55-6791-4567-AA6D-4BEB44254143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96D9B55-6791-4567-AA6D-4BEB44254143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96D9B55-6791-4567-AA6D-4BEB44254143}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
