@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Development\\visual studio 2019\\Programacion2\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\03.Tercero\\03.Tercero.vbproj": {}
+    "D:\\Development\\Visual Studio 2019\\ProgramacionII\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\03.Tercero\\03.Tercero.vbproj": {}
   },
   "projects": {
-    "E:\\Development\\visual studio 2019\\Programacion2\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\03.Tercero\\03.Tercero.vbproj": {
+    "D:\\Development\\Visual Studio 2019\\ProgramacionII\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\03.Tercero\\03.Tercero.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Development\\visual studio 2019\\Programacion2\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\03.Tercero\\03.Tercero.vbproj",
+        "projectUniqueName": "D:\\Development\\Visual Studio 2019\\ProgramacionII\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\03.Tercero\\03.Tercero.vbproj",
         "projectName": "03.Tercero",
-        "projectPath": "E:\\Development\\visual studio 2019\\Programacion2\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\03.Tercero\\03.Tercero.vbproj",
-        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "E:\\Development\\visual studio 2019\\Programacion2\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\03.Tercero\\obj\\",
+        "projectPath": "D:\\Development\\Visual Studio 2019\\ProgramacionII\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\03.Tercero\\03.Tercero.vbproj",
+        "packagesPath": "C:\\Users\\Propietario\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Visual Studio 2019\\ProgramacionII\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\03.Tercero\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Propietario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
