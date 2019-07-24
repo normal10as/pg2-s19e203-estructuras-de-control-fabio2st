@@ -8,4 +8,3 @@ E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-contr
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\09.ConversionMedida\obj\Debug\netcoreapp2.2\09.ConversionMedida.AssemblyInfo.vb
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\09.ConversionMedida\obj\Debug\netcoreapp2.2\09.ConversionMedida.dll
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\09.ConversionMedida\obj\Debug\netcoreapp2.2\09.ConversionMedida.pdb
-E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\09.ConversionMedida\obj\Debug\netcoreapp2.2\09.ConversionMedida.vbprojAssemblyReference.cache

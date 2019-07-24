@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "04.Venta/1.0.0": {
+      "11.ParesImpares/1.0.0": {
         "runtime": {
-          "04.Venta.dll": {}
+          "11.ParesImpares.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "04.Venta/1.0.0": {
+    "11.ParesImpares/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

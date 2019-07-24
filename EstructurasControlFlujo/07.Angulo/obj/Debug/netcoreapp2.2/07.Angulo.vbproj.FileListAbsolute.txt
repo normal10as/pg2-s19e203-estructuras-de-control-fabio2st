@@ -3,7 +3,6 @@ E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-contr
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\07.Angulo\bin\Debug\netcoreapp2.2\07.Angulo.runtimeconfig.dev.json
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\07.Angulo\bin\Debug\netcoreapp2.2\07.Angulo.dll
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\07.Angulo\bin\Debug\netcoreapp2.2\07.Angulo.pdb
-E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\07.Angulo\obj\Debug\netcoreapp2.2\07.Angulo.vbprojAssemblyReference.cache
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\07.Angulo\obj\Debug\netcoreapp2.2\07.Angulo.vbproj.CoreCompileInputs.cache
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\07.Angulo\obj\Debug\netcoreapp2.2\07.Angulo.AssemblyInfoInputs.cache
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\07.Angulo\obj\Debug\netcoreapp2.2\07.Angulo.AssemblyInfo.vb

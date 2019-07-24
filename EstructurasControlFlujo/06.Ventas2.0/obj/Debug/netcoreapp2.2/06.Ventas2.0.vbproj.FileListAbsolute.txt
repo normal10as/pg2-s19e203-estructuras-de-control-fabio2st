@@ -8,3 +8,4 @@ E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-contr
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\06.Ventas2.0\obj\Debug\netcoreapp2.2\06.Ventas2.0.AssemblyInfo.vb
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\06.Ventas2.0\obj\Debug\netcoreapp2.2\06.Ventas2.0.dll
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\06.Ventas2.0\obj\Debug\netcoreapp2.2\06.Ventas2.0.pdb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\06.Ventas2.0\obj\Debug\netcoreapp2.2\06.Ventas2.0.vbprojAssemblyReference.cache

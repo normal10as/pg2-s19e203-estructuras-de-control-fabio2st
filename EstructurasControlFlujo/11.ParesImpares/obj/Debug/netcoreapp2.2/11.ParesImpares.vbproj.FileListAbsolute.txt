@@ -1,0 +1,11 @@
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\11.ParesImpares\bin\Debug\netcoreapp2.2\11.ParesImpares.deps.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\11.ParesImpares\bin\Debug\netcoreapp2.2\11.ParesImpares.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\11.ParesImpares\bin\Debug\netcoreapp2.2\11.ParesImpares.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\11.ParesImpares\bin\Debug\netcoreapp2.2\11.ParesImpares.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\11.ParesImpares\bin\Debug\netcoreapp2.2\11.ParesImpares.pdb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\11.ParesImpares\obj\Debug\netcoreapp2.2\11.ParesImpares.vbproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\11.ParesImpares\obj\Debug\netcoreapp2.2\11.ParesImpares.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\11.ParesImpares\obj\Debug\netcoreapp2.2\11.ParesImpares.AssemblyInfo.vb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\11.ParesImpares\obj\Debug\netcoreapp2.2\11.ParesImpares.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\11.ParesImpares\obj\Debug\netcoreapp2.2\11.ParesImpares.pdb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\11.ParesImpares\obj\Debug\netcoreapp2.2\11.ParesImpares.vbprojAssemblyReference.cache
