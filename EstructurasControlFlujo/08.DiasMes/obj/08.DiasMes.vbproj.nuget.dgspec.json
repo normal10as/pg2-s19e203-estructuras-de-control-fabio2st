@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\Visual Studio 2019\\ProgramacionII\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\08.DiasMes\\08.DiasMes.vbproj": {}
+    "E:\\Development\\visual studio 2019\\Programacion2\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\08.DiasMes\\08.DiasMes.vbproj": {}
   },
   "projects": {
-    "D:\\Development\\Visual Studio 2019\\ProgramacionII\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\08.DiasMes\\08.DiasMes.vbproj": {
+    "E:\\Development\\visual studio 2019\\Programacion2\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\08.DiasMes\\08.DiasMes.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\Visual Studio 2019\\ProgramacionII\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\08.DiasMes\\08.DiasMes.vbproj",
+        "projectUniqueName": "E:\\Development\\visual studio 2019\\Programacion2\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\08.DiasMes\\08.DiasMes.vbproj",
         "projectName": "08.DiasMes",
-        "projectPath": "D:\\Development\\Visual Studio 2019\\ProgramacionII\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\08.DiasMes\\08.DiasMes.vbproj",
-        "packagesPath": "C:\\Users\\Propietario\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\Visual Studio 2019\\ProgramacionII\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\08.DiasMes\\obj\\",
+        "projectPath": "E:\\Development\\visual studio 2019\\Programacion2\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\08.DiasMes\\08.DiasMes.vbproj",
+        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+        "outputPath": "E:\\Development\\visual studio 2019\\Programacion2\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\08.DiasMes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Propietario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
