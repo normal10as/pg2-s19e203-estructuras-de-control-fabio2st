@@ -1,0 +1,11 @@
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\15.Deposito\bin\Debug\netcoreapp2.2\15.Deposito.deps.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\15.Deposito\bin\Debug\netcoreapp2.2\15.Deposito.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\15.Deposito\bin\Debug\netcoreapp2.2\15.Deposito.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\15.Deposito\bin\Debug\netcoreapp2.2\15.Deposito.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\15.Deposito\bin\Debug\netcoreapp2.2\15.Deposito.pdb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\15.Deposito\obj\Debug\netcoreapp2.2\15.Deposito.vbproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\15.Deposito\obj\Debug\netcoreapp2.2\15.Deposito.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\15.Deposito\obj\Debug\netcoreapp2.2\15.Deposito.AssemblyInfo.vb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\15.Deposito\obj\Debug\netcoreapp2.2\15.Deposito.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\15.Deposito\obj\Debug\netcoreapp2.2\15.Deposito.pdb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\15.Deposito\obj\Debug\netcoreapp2.2\15.Deposito.vbprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\19.VolumenCilindro\bin\Debug\netcoreapp2.2\19.VolumenCilindro.deps.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\19.VolumenCilindro\bin\Debug\netcoreapp2.2\19.VolumenCilindro.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\19.VolumenCilindro\bin\Debug\netcoreapp2.2\19.VolumenCilindro.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\19.VolumenCilindro\bin\Debug\netcoreapp2.2\19.VolumenCilindro.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\19.VolumenCilindro\bin\Debug\netcoreapp2.2\19.VolumenCilindro.pdb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\19.VolumenCilindro\obj\Debug\netcoreapp2.2\19.VolumenCilindro.vbproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\19.VolumenCilindro\obj\Debug\netcoreapp2.2\19.VolumenCilindro.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\19.VolumenCilindro\obj\Debug\netcoreapp2.2\19.VolumenCilindro.AssemblyInfo.vb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\19.VolumenCilindro\obj\Debug\netcoreapp2.2\19.VolumenCilindro.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\19.VolumenCilindro\obj\Debug\netcoreapp2.2\19.VolumenCilindro.pdb

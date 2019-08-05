@@ -1,0 +1,10 @@
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\17.OperadoresMensaje\obj\Debug\netcoreapp2.2\17.OperadoresMensaje.vbproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\17.OperadoresMensaje\obj\Debug\netcoreapp2.2\17.OperadoresMensaje.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\17.OperadoresMensaje\obj\Debug\netcoreapp2.2\17.OperadoresMensaje.AssemblyInfo.vb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\17.OperadoresMensaje\bin\Debug\netcoreapp2.2\17.OperadoresMensaje.deps.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\17.OperadoresMensaje\bin\Debug\netcoreapp2.2\17.OperadoresMensaje.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\17.OperadoresMensaje\bin\Debug\netcoreapp2.2\17.OperadoresMensaje.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\17.OperadoresMensaje\bin\Debug\netcoreapp2.2\17.OperadoresMensaje.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\17.OperadoresMensaje\bin\Debug\netcoreapp2.2\17.OperadoresMensaje.pdb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\17.OperadoresMensaje\obj\Debug\netcoreapp2.2\17.OperadoresMensaje.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\17.OperadoresMensaje\obj\Debug\netcoreapp2.2\17.OperadoresMensaje.pdb

@@ -1,0 +1,11 @@
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\18.Hipotenusa\bin\Debug\netcoreapp2.2\18.Hipotenusa.deps.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\18.Hipotenusa\bin\Debug\netcoreapp2.2\18.Hipotenusa.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\18.Hipotenusa\bin\Debug\netcoreapp2.2\18.Hipotenusa.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\18.Hipotenusa\bin\Debug\netcoreapp2.2\18.Hipotenusa.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\18.Hipotenusa\bin\Debug\netcoreapp2.2\18.Hipotenusa.pdb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\18.Hipotenusa\obj\Debug\netcoreapp2.2\18.Hipotenusa.vbprojAssemblyReference.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\18.Hipotenusa\obj\Debug\netcoreapp2.2\18.Hipotenusa.vbproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\18.Hipotenusa\obj\Debug\netcoreapp2.2\18.Hipotenusa.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\18.Hipotenusa\obj\Debug\netcoreapp2.2\18.Hipotenusa.AssemblyInfo.vb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\18.Hipotenusa\obj\Debug\netcoreapp2.2\18.Hipotenusa.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\18.Hipotenusa\obj\Debug\netcoreapp2.2\18.Hipotenusa.pdb
