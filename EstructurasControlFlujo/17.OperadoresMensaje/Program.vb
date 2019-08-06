@@ -19,15 +19,15 @@ Module OperacionesMensaje
     End Sub
     Sub Resultado(operador As Operadores, valor1 As Single, valor2 As Single)
         Console.Write("{1}{0}{2} = ", ObtenerSimbolo(operador), valor1, valor2)
-        Console.WriteLine(Operaciones.Calcular(Operadores.suma, valor1, valor2))
+        Console.WriteLine(Operaciones.Calcular(operador, valor1, valor2))
     End Sub
     Sub Resultado(operador As Operadores, valor1 As Single, valor2 As Single, valor3 As Single)
         Console.Write("{1}{0}{2}{0}{3} = ", ObtenerSimbolo(operador), valor1, valor2, valor3)
-        Console.WriteLine(Operaciones.Calcular(Operadores.suma, valor1, valor2, valor3))
+        Console.WriteLine(Operaciones.Calcular(operador, valor1, valor2, valor3))
     End Sub
     Sub Resultado(operador As Operadores, valor1 As Single, valor2 As Single, valor3 As Single, valor4 As Single)
         Console.Write("{1}{0}{2}{0}{3}{0}{4} = ", ObtenerSimbolo(operador), valor1, valor2, valor3, valor4)
-        Console.WriteLine(Operaciones.Calcular(Operadores.suma, valor1, valor2, valor3, valor4))
+        Console.WriteLine(Operaciones.Calcular(operador, valor1, valor2, valor3, valor4))
     End Sub
     Function ObtenerSimbolo(operador As Operadores) As Char
         Select Case operador

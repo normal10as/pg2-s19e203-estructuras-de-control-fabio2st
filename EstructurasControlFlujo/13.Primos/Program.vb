@@ -1,9 +1,8 @@
 Imports System
-
 Module Program
     Sub Main(args As String())
         Console.WriteLine("Un número primo es un número natural mayor que 1 que tiene únicamente dos divisores distintos: él mismo y el 1")
-        Dim valor As UInteger = 2
+        Dim valor As UInteger = 1
         For x = 1 To 20
             ObtenerProximoPrimo(valor)
             Console.Write(" " & valor)

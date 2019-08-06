@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fabio\\.nuget\\packages\\": {},
+    "C:\\Users\\Propietario\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Development\\visual studio 2019\\Programacion2\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\15.Deposito\\15.Deposito.vbproj",
+      "projectUniqueName": "D:\\Development\\Visual Studio 2019\\ProgramacionII\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\15.Deposito\\15.Deposito.vbproj",
       "projectName": "15.Deposito",
-      "projectPath": "E:\\Development\\visual studio 2019\\Programacion2\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\15.Deposito\\15.Deposito.vbproj",
-      "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "E:\\Development\\visual studio 2019\\Programacion2\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\15.Deposito\\obj\\",
+      "projectPath": "D:\\Development\\Visual Studio 2019\\ProgramacionII\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\15.Deposito\\15.Deposito.vbproj",
+      "packagesPath": "C:\\Users\\Propietario\\.nuget\\packages\\",
+      "outputPath": "D:\\Development\\Visual Studio 2019\\ProgramacionII\\pg2-s19e203-estructuras-de-control-fabio2st\\EstructurasControlFlujo\\15.Deposito\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Propietario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

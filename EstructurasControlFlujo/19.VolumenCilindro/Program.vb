@@ -13,11 +13,11 @@ Module VolumenCilindro
         altura = IngresarValor("Ingrese la altura del cilindro")
         Console.WriteLine("El volumen del cilindro es: " & CalcularCilindro(base, altura))
     End Sub
-    Function IngresarValor(mensaje As String)
+    Function IngresarValor(mensaje As String) As Double
         Dim valor As Double
         Do
             Console.Write(mensaje & " (debe ser positivo): ")
-            valor = Console.ReadLine
+            valor = Console.ReadLine()
         Loop Until ValidarPositivo(valor)
         Return valor
     End Function

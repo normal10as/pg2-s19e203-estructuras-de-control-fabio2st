@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v2.2": {
       "17.OperadoresMensaje/1.0.0": {
+        "dependencies": {
+          "16.Operaciones": "1.0.0"
+        },
         "runtime": {
           "17.OperadoresMensaje.dll": {}
+        }
+      },
+      "16.Operaciones/1.0.0": {
+        "runtime": {
+          "16.Operaciones.dll": {}
         }
       }
     }
   },
   "libraries": {
     "17.OperadoresMensaje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "16.Operaciones/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

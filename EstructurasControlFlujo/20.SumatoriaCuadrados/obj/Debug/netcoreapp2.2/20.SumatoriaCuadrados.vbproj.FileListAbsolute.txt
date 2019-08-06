@@ -8,3 +8,13 @@ E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-contr
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\20.SumatoriaCuadrados\bin\Debug\netcoreapp2.2\20.SumatoriaCuadrados.pdb
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\20.SumatoriaCuadrados\obj\Debug\netcoreapp2.2\20.SumatoriaCuadrados.dll
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\20.SumatoriaCuadrados\obj\Debug\netcoreapp2.2\20.SumatoriaCuadrados.pdb
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\20.SumatoriaCuadrados\bin\Debug\netcoreapp2.2\20.SumatoriaCuadrados.deps.json
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\20.SumatoriaCuadrados\bin\Debug\netcoreapp2.2\20.SumatoriaCuadrados.runtimeconfig.json
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\20.SumatoriaCuadrados\bin\Debug\netcoreapp2.2\20.SumatoriaCuadrados.runtimeconfig.dev.json
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\20.SumatoriaCuadrados\bin\Debug\netcoreapp2.2\20.SumatoriaCuadrados.dll
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\20.SumatoriaCuadrados\bin\Debug\netcoreapp2.2\20.SumatoriaCuadrados.pdb
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\20.SumatoriaCuadrados\obj\Debug\netcoreapp2.2\20.SumatoriaCuadrados.vbproj.CoreCompileInputs.cache
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\20.SumatoriaCuadrados\obj\Debug\netcoreapp2.2\20.SumatoriaCuadrados.AssemblyInfoInputs.cache
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\20.SumatoriaCuadrados\obj\Debug\netcoreapp2.2\20.SumatoriaCuadrados.AssemblyInfo.vb
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\20.SumatoriaCuadrados\obj\Debug\netcoreapp2.2\20.SumatoriaCuadrados.dll
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\20.SumatoriaCuadrados\obj\Debug\netcoreapp2.2\20.SumatoriaCuadrados.pdb

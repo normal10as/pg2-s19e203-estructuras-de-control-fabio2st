@@ -9,12 +9,12 @@ Imports System.Math
 'f�rmula: c� = a� + b�. Ingresar los valores por teclado y mostrar el resultado en consola.
 Module Hipotenusa
     Sub Main(args As String())
-        Dim a, b As Double
+        Dim a, b As UInteger
         a = IngresarValor("Ingrese lado 'A'")
         b = IngresarValor("Ingrese lado 'B'")
         Console.WriteLine("El lado 'C' es: " & CalcularHipotenusa(a, b))
     End Sub
-    Function IngresarValor(mensaje As String)
+    Function IngresarValor(mensaje As String) As Double
         Dim valor As Double
         Do
             Console.Write(mensaje & " (debe ser entero positivo): ")

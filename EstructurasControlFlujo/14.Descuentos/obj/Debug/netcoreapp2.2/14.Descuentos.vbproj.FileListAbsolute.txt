@@ -9,3 +9,14 @@ E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-contr
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\14.Descuentos\obj\Debug\netcoreapp2.2\14.Descuentos.AssemblyInfo.vb
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\14.Descuentos\obj\Debug\netcoreapp2.2\14.Descuentos.dll
 E:\Development\visual studio 2019\Programacion2\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\14.Descuentos\obj\Debug\netcoreapp2.2\14.Descuentos.pdb
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\14.Descuentos\bin\Debug\netcoreapp2.2\14.Descuentos.deps.json
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\14.Descuentos\bin\Debug\netcoreapp2.2\14.Descuentos.runtimeconfig.json
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\14.Descuentos\bin\Debug\netcoreapp2.2\14.Descuentos.runtimeconfig.dev.json
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\14.Descuentos\bin\Debug\netcoreapp2.2\14.Descuentos.dll
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\14.Descuentos\bin\Debug\netcoreapp2.2\14.Descuentos.pdb
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\14.Descuentos\obj\Debug\netcoreapp2.2\14.Descuentos.vbprojAssemblyReference.cache
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\14.Descuentos\obj\Debug\netcoreapp2.2\14.Descuentos.vbproj.CoreCompileInputs.cache
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\14.Descuentos\obj\Debug\netcoreapp2.2\14.Descuentos.AssemblyInfoInputs.cache
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\14.Descuentos\obj\Debug\netcoreapp2.2\14.Descuentos.AssemblyInfo.vb
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\14.Descuentos\obj\Debug\netcoreapp2.2\14.Descuentos.dll
+D:\Development\Visual Studio 2019\ProgramacionII\pg2-s19e203-estructuras-de-control-fabio2st\EstructurasControlFlujo\14.Descuentos\obj\Debug\netcoreapp2.2\14.Descuentos.pdb
